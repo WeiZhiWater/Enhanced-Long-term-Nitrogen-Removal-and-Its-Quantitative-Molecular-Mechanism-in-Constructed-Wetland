@@ -4,5 +4,5 @@
 
 ## Abstract
 <p align="center">
-  <img src="/figures/TOC.png" alt="Nitrogen removal in Constructed Wetland" width="700">
+  <img src="/figures/TOC.png" alt="Nitrogen removal in Constructed Wetland" width="600">
 </p>
