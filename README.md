@@ -24,3 +24,10 @@ Throughout this study, little NO2− and NO3− were accumulated in T1, suggesti
 <p align="center">
   <img src="/figures/figure 2.png" alt="Nitrogen removal in Constructed Wetland" width="700">
 </p>
+
+### Dynamic populations of nitrogen functional genes in T1 (black) and T2 (red)
+The absolute abundances of bacterial 16S rRNA, archaeal 16S rRNA, anammox bacterial 16S rRNA, amoA, nxrA, narG, nirK, nirS, and nosZ were quantified eight times during the experimental period to determine their dynamic populations.
+
+<p align="center">
+  <img src="/figures/figure 3.png" alt="Nitrogen removal in Constructed Wetland" width="700">
+</p>
