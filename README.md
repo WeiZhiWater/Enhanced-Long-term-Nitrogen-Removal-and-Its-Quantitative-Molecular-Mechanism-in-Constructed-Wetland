@@ -17,3 +17,10 @@
 - Dynamic populations of nitrogen functional genes in T1 (black) and T2 (red)
 - Table 1. Quantitative Relationships between Nitrogen Transformation Rates and Functional Gene Abundance (T1)
 - Table 2. Quantitative Relationships between Nitrogen Transformation Rates and Functional Gene Abundance (T2)
+
+### Long-term dynamic transformations of nitrogen in tidal flow constructed wetlands
+Throughout this study, little NO2− and NO3− were accumulated in T1, suggesting that denitrification at a C/N ratio of six was sufficient for nitrification to completely remove nitrogen from the wastewater. T2 achieved an NO3− removal efficiency of 91 ± 5.7% in the start-up stage, increasing to 97 ± 2.2% in the operational stage. Compared to the lagging NH4+ removal in T1, the NO3− removal in T2 was more rapid and efficient. This was because the shortcut nitrogen removal pathway in T2, the denitrification process, was unrestricted to the rate-limiting nitrification step.
+
+<p align="center">
+  <img src="/figures/figure 2.png" alt="Nitrogen removal in Constructed Wetland" width="700">
+</p>
