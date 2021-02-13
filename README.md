@@ -31,3 +31,15 @@ The absolute abundances of bacterial 16S rRNA, archaeal 16S rRNA, anammox bacter
 <p align="center">
   <img src="/figures/figure 3.png" alt="Nitrogen removal in Constructed Wetland" width="700">
 </p>
+
+### Table 1. Quantitative Relationships between Nitrogen Transformation Rates and Functional Gene Abundance (T1)
+
+<p align="center">
+  <img src="/figures/table 1.png" alt="Nitrogen removal in Constructed Wetland" width="700">
+</p>
+
+### Table 2. Quantitative Relationships between Nitrogen Transformation Rates and Functional Gene Abundance (T2)
+
+<p align="center">
+  <img src="/figures/table 2.png" alt="Nitrogen removal in Constructed Wetland" width="700">
+</p>
