@@ -33,12 +33,14 @@ The absolute abundances of bacterial 16S rRNA, archaeal 16S rRNA, anammox bacter
 </p>
 
 ### Table 1. Quantitative Relationships between Nitrogen Transformation Rates and Functional Gene Abundance (T1)
+Results from stepwise regression analysis suggested that the NH4+ removal rate in T1 was collectively controlled by amoA, nxrA, and anammox.
 
 <p align="center">
   <img src="/figures/table 1.png" alt="Nitrogen removal in Constructed Wetland" width="700">
 </p>
 
 ### Table 2. Quantitative Relationships between Nitrogen Transformation Rates and Functional Gene Abundance (T2)
+Results from stepwise regression analysis suggested that the NO3− emoval rate in T2 was governed by nxrA and narG gene.
 
 <p align="center">
   <img src="/figures/table 2.png" alt="Nitrogen removal in Constructed Wetland" width="700">
